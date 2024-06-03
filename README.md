@@ -2,7 +2,7 @@
 
 I'm Simone, Applied Physics student at Alma Mater Studiorum, Bologna.
 
-- 🌱 I’m currently learning about pysical application to medicine and biological systems. Focusing especially on the implementation of AI model for medical image processing.
+- 🌱 I’m currently learning about pysical application to medicine and biological systems. Focusing especially on the implementation of AI models for medical image processing.
 
 - 📫 How to Reach Me: [![Mail](https://img.shields.io/badge/simone.santoro7@studio.unibo.it-0078D4?style=social&logo=microsoft-outlook)](mailto:simone.santoro7@studio.unibo.it)
 
