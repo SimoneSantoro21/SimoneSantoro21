@@ -14,6 +14,6 @@ I'm Simone, Applied Physics student at Alma Mater Studiorum, Bologna.
 |**Version Control** |[![image](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)|
 |**OS**| [![image](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/it-it/windows/)|
 
-## Current Projects
+## Past Projects
 
-- *PyTorch implementation of Bayesian U-Net for segmenting multiple sclerosis lesions in Brain MRI Scans.* [![code](http://img.shields.io/badge/code-Brain_MRI_Segmentation-blue.svg)](https://github.com/SimoneSantoro21/Brain_MRI_Segmentation)
+- *PyTorch implementation of an approximated Bayesian U-Net for segmenting multiple sclerosis lesions in Brain MRI Scans.* [![code](http://img.shields.io/badge/code-Brain_MRI_Segmentation-blue.svg)](https://github.com/SimoneSantoro21/Brain_MRI_Segmentation)
